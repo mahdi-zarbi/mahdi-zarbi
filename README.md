@@ -1,13 +1,41 @@
-- 👋 Hi, I’m @mahdi-zarbi
-- 👀 I’m interested in football 
-- 🌱 I’m currently learning java & python 
-- 📫 How to reach me :
-- email :zarbi.mahdi0101@gmail.com
-- telegram  :                      @shdow_pishi 
+<h1 align="center">Hey there! 👋 I'm Mahdi</h1>
 
-- my city : Isfahan of iran 
+<p align="center">
+🧠 Learner of bugs & wizard of semicolons; still searching for the perfect coffee/code combo ☕
+</p>
 
-<!---
-mahdi-zarbi/mahdi-zarbi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🐣 Learning Journey
+
+- ☕ Brewing Java skills one exception at a time
+- 🐍 Soon diving into Python with curiosity
+- ⚙️ Previously explored C – got battle scars and bragging rights!
+
+---
+
+### 🧰 Languages & Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</p>
+
+---
+
+### 💻 GitHub Stats
+
+![Mahdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdi&show_icons=true&theme=tokyonight)
+
+---
+
+### 📫 Connect With Me
+
+- 🐦 Twitter: [@mahdi_codes](https://twitter.com/mahdi_codes)
+- 📧 Email: mahdi@example.com
+
+---
+
+> “Still learning, still coding, still having fun.” 🌟
