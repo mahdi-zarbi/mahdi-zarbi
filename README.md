@@ -1,3 +1,18 @@
+<h1 align="center"><code>Hey there_ I'm Mahdi</code></h1>
+
+<p align="center">
+<code>🧠 Just a curious mind wandering through Java, Python, and the world of code...</code>
+</p>
+
+---
+
+### 💀 Tech Stack Arsenal
+Java        // brewing backend logic ☕
+Python      // scripting automation 🐍
+C           // survived low-level battles ⚙️
+Linux       // my digital dojo 🐧
+VS Code     // code editor of choice 💻
+IntelliJ    // where Java gets serious 
 
 ---
 
