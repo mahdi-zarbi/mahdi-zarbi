@@ -34,7 +34,7 @@
 
 - 📧 Email: zarbi.mahdi0101@gmail.com  
 - 💬 Telegram: [@shadow_pishi](https://t.me/shadow_pishi)  
-- 💼 LinkedIn: [linkedin.com/in/mahdi]([https://linkedin.com/in/mahdi](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile))
+- 💼 LinkedIn: [linkedin.com/in/mahdi]((https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile))
 
 ---
 
