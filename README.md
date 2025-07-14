@@ -7,14 +7,6 @@
 
 ---
 
-### 🐣 Learning Journey
-
-- ☕ Brewing Java skills one exception at a time
-- 🐍 Exploring Python for fun, automation and scripting
-- ⚙️ Tinkered with C in uni – survived and thrived!
-
----
-
 ### 🧰 Languages & Tools
 
 <p align="center">
@@ -26,27 +18,11 @@
 
 ---
 
-### 🗓️ Learning Timeline
+### 🎬 Vibes in Motion
 
-- 📅 2024 — Started programming with **C** in university
-- 📅 Early 2025 — Dived into **Java**, building console-based projects
-- 📅 Summer 2025 — Began learning **Python** for scripting and automation
-- 📅 Autumn 2025 — Planning real-world apps with Java & Python
-- 🔮 Future — Becoming a confident Full-Stack Developer 🚀
-
----
-
-### 🏆 GitHub Achievements
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=mahdi&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 📊 My GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdi&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi&layout=compact&theme=tokyonight)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mahdi&theme=tokyonight)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="500"/>
+</p>
 
 ---
 
