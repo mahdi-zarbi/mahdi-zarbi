@@ -25,21 +25,9 @@
 
 ---
 
-### 🗓️ Learning Timeline
 
-- 📅 2024 - Started programming with C in university
-- 📅 Early 2025 - Diving into Java | Building console-based projects
-- 📅 Summer 2025 - Exploring Python for fun and automation
-- 📅 Autumn 2025 - Planning real-world apps with Java & Python
-- 🔮 Future - Becoming a confident Full-Stack Developer 💻
 
----
 
-### 💻 GitHub Stats
-
-![Mahdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdi&show_icons=true&theme=tokyonight)
-
----
 
 ### 📫 Connect With Me
 
